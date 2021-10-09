@@ -1,0 +1,57 @@
+PYTHON API --Create room
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZDJlNGI1NzAtMjdlOS0xMWVjLTk1ZTUtNmRkMmM1YTNmNzhj",
+    "title": "PYTHON API",
+    "type": "group",
+    "isLocked": false,
+    "lastActivity": "2021-10-08T03:42:56.071Z",
+    "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+    "created": "2021-10-08T03:42:56.071Z",
+    "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9mZmU1MGI5Ny0yYjRhLTQ5NjUtODM3My05ODIyZWFmZWRkZmQ"
+}
+
+PYTHON API --Add member and message
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvZjBlZjk2OTctOWM1MC00OGUxLWFkODItZTQ3MmU4YjNmMzU4OmQyZTRiNTcwLTI3ZTktMTFlYy05NWU1LTZkZDJjNWEzZjc4Yw",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZDJlNGI1NzAtMjdlOS0xMWVjLTk1ZTUtNmRkMmM1YTNmNzhj",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mMGVmOTY5Ny05YzUwLTQ4ZTEtYWQ4Mi1lNDcyZThiM2YzNTg",
+    "personEmail": "vavancruz65@gmail.com",
+    "personDisplayName": "Darwin Ivan Cruz",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-08T03:53:55.830Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FU1NBR0UvNjBkYmFkMTAtMjdlYi0xMWVjLTgxNTYtOTVjMWNlODQxOWJm",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZDJlNGI1NzAtMjdlOS0xMWVjLTk1ZTUtNmRkMmM1YTNmNzhj",
+    "roomType": "group",
+    "text": "I love API",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+    "personEmail": "janzsacdalan@gmail.com",
+    "created": "2021-10-08T03:54:03.745Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvNmJmMTJhOTItZjk3YS00OTZlLWFhYWEtNzg5NWI4MmJlZDljOmQyZTRiNTcwLTI3ZTktMTFlYy05NWU1LTZkZDJjNWEzZjc4Yw",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZDJlNGI1NzAtMjdlOS0xMWVjLTk1ZTUtNmRkMmM1YTNmNzhj",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82YmYxMmE5Mi1mOTdhLTQ5NmUtYWFhYS03ODk1YjgyYmVkOWM",
+    "personEmail": "gerinlarin@gmail.com",
+    "personDisplayName": "Gerin Larin",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9iMDc5MmVhNi1mOWYxLTRlYzMtYTE2Ny0zNzA1NjlmZTFlZDA",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-08T03:55:53.343Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FU1NBR0UvYTcwN2IyMjAtMjdlYi0xMWVjLTgzYjgtYTM2NWE0ZmI4N2M0",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZDJlNGI1NzAtMjdlOS0xMWVjLTk1ZTUtNmRkMmM1YTNmNzhj",
+    "roomType": "group",
+    "text": "I love API",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+    "personEmail": "janzsacdalan@gmail.com",
+    "created": "2021-10-08T03:56:01.474Z"
+}

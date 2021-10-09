@@ -1,0 +1,310 @@
+Token: ZGViODZmMjAtY2ZmNy00ZjQ0LWI2MTQtYzNjYjUyMjU4YWI2YjM1MTkwNjAtN2Mw_P0A1_ffe50b97-2b4a-4965-8373-9822eafeddfd
+
+WEBEX API --Create Room
+200 / OK
+{
+  "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYTljNjYwNjAtMjc1MC0xMWVjLWFiNjctNzc3ZTE3ZjMwYzQ1",
+  "title": "COMP6 API Webex",
+  "type": "group",
+  "isLocked": false,
+  "lastActivity": "2021-10-07T09:26:34.086Z",
+  "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+  "created": "2021-10-07T09:26:34.086Z",
+  "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9mZmU1MGI5Ny0yYjRhLTQ5NjUtODM3My05ODIyZWFmZWRkZmQ"
+}
+
+POSTMAN API --Create Room
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZTgxYTU2ZjAtMjc1MC0xMWVjLTg3ZjQtYzU2MjZjNjYwZDNi",
+    "title": "COMP6 API Postman",
+    "type": "group",
+    "isLocked": false,
+    "lastActivity": "2021-10-07T09:28:18.655Z",
+    "creatorId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+    "created": "2021-10-07T09:28:18.655Z",
+    "ownerId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9mZmU1MGI5Ny0yYjRhLTQ5NjUtODM3My05ODIyZWFmZWRkZmQ"
+}
+
+WEBEX API --Add 5 members
+{
+  "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvZjBlZjk2OTctOWM1MC00OGUxLWFkODItZTQ3MmU4YjNmMzU4OmE5YzY2MDYwLTI3NTAtMTFlYy1hYjY3LTc3N2UxN2YzMGM0NQ",
+  "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYTljNjYwNjAtMjc1MC0xMWVjLWFiNjctNzc3ZTE3ZjMwYzQ1",
+  "roomType": "group",
+  "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mMGVmOTY5Ny05YzUwLTQ4ZTEtYWQ4Mi1lNDcyZThiM2YzNTg",
+  "personEmail": "vavancruz65@gmail.com",
+  "personDisplayName": "Darwin Ivan Cruz",
+  "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+  "isModerator": false,
+  "isMonitor": false,
+  "isRoomHidden": false,
+  "created": "2021-10-07T13:47:30.326Z"
+}
+{
+  "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYjIyNDllMGUtOGQ5Ni00Yzc4LWI5YzEtNmFmZThmNGM2NmIyOmE5YzY2MDYwLTI3NTAtMTFlYy1hYjY3LTc3N2UxN2YzMGM0NQ",
+  "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYTljNjYwNjAtMjc1MC0xMWVjLWFiNjctNzc3ZTE3ZjMwYzQ1",
+  "roomType": "group",
+  "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9iMjI0OWUwZS04ZDk2LTRjNzgtYjljMS02YWZlOGY0YzY2YjI",
+  "personEmail": "ardwindcritual@gmail.com",
+  "personDisplayName": "Ardwin Ritual",
+  "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+  "isModerator": false,
+  "isMonitor": false,
+  "isRoomHidden": false,
+  "created": "2021-10-07T13:48:05.394Z"
+}
+{
+  "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYmY2NzJkMzEtZjkwMC00OGRiLTk5MjItNjFmOTVkZDMzZDA1OmE5YzY2MDYwLTI3NTAtMTFlYy1hYjY3LTc3N2UxN2YzMGM0NQ",
+  "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYTljNjYwNjAtMjc1MC0xMWVjLWFiNjctNzc3ZTE3ZjMwYzQ1",
+  "roomType": "group",
+  "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9iZjY3MmQzMS1mOTAwLTQ4ZGItOTkyMi02MWY5NWRkMzNkMDU",
+  "personEmail": "perezeugenee@gmail.com",
+  "personDisplayName": "Eugene Perez",
+  "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9iMDc5MmVhNi1mOWYxLTRlYzMtYTE2Ny0zNzA1NjlmZTFlZDA",
+  "isModerator": false,
+  "isMonitor": false,
+  "isRoomHidden": false,
+  "created": "2021-10-07T13:48:17.722Z"
+}
+{
+  "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvNmJmMTJhOTItZjk3YS00OTZlLWFhYWEtNzg5NWI4MmJlZDljOmE5YzY2MDYwLTI3NTAtMTFlYy1hYjY3LTc3N2UxN2YzMGM0NQ",
+  "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYTljNjYwNjAtMjc1MC0xMWVjLWFiNjctNzc3ZTE3ZjMwYzQ1",
+  "roomType": "group",
+  "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82YmYxMmE5Mi1mOTdhLTQ5NmUtYWFhYS03ODk1YjgyYmVkOWM",
+  "personEmail": "gerinlarin@gmail.com",
+  "personDisplayName": "Gerin Larin",
+  "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9iMDc5MmVhNi1mOWYxLTRlYzMtYTE2Ny0zNzA1NjlmZTFlZDA",
+  "isModerator": false,
+  "isMonitor": false,
+  "isRoomHidden": false,
+  "created": "2021-10-07T13:48:32.535Z"
+}
+{
+  "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvMGE1ZmU3ZjItMjkyZS00YzQyLWE0ZDItOGU1YzA3MTYwM2VkOmE5YzY2MDYwLTI3NTAtMTFlYy1hYjY3LTc3N2UxN2YzMGM0NQ",
+  "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYTljNjYwNjAtMjc1MC0xMWVjLWFiNjctNzc3ZTE3ZjMwYzQ1",
+  "roomType": "group",
+  "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8wYTVmZTdmMi0yOTJlLTRjNDItYTRkMi04ZTVjMDcxNjAzZWQ",
+  "personEmail": "gilpangan.2815@gmail.com",
+  "personDisplayName": "Gil Pangan",
+  "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81YzAzMDUwYi03Y2VlLTQyZDAtODdkZS00ZGExYzM0Njk1NzA",
+  "isModerator": false,
+  "isMonitor": false,
+  "isRoomHidden": false,
+  "created": "2021-10-07T13:48:45.566Z"
+}
+
+POSTMAN API --Add 5 members
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYjIyNDllMGUtOGQ5Ni00Yzc4LWI5YzEtNmFmZThmNGM2NmIyOmU4MWE1NmYwLTI3NTAtMTFlYy04N2Y0LWM1NjI2YzY2MGQzYg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZTgxYTU2ZjAtMjc1MC0xMWVjLTg3ZjQtYzU2MjZjNjYwZDNi",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9iMjI0OWUwZS04ZDk2LTRjNzgtYjljMS02YWZlOGY0YzY2YjI",
+    "personEmail": "ardwindcritual@gmail.com",
+    "personDisplayName": "Ardwin Ritual",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-07T13:53:53.404Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvZjBlZjk2OTctOWM1MC00OGUxLWFkODItZTQ3MmU4YjNmMzU4OmU4MWE1NmYwLTI3NTAtMTFlYy04N2Y0LWM1NjI2YzY2MGQzYg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZTgxYTU2ZjAtMjc1MC0xMWVjLTg3ZjQtYzU2MjZjNjYwZDNi",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mMGVmOTY5Ny05YzUwLTQ4ZTEtYWQ4Mi1lNDcyZThiM2YzNTg",
+    "personEmail": "vavancruz65@gmail.com",
+    "personDisplayName": "Darwin Ivan Cruz",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81OTk4ZmYwOS05YzI3LTQ0MDctODE4Zi0yMzA1NzA5ZThkNDk",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-07T13:54:16.354Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvYmY2NzJkMzEtZjkwMC00OGRiLTk5MjItNjFmOTVkZDMzZDA1OmU4MWE1NmYwLTI3NTAtMTFlYy04N2Y0LWM1NjI2YzY2MGQzYg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZTgxYTU2ZjAtMjc1MC0xMWVjLTg3ZjQtYzU2MjZjNjYwZDNi",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9iZjY3MmQzMS1mOTAwLTQ4ZGItOTkyMi02MWY5NWRkMzNkMDU",
+    "personEmail": "perezeugenee@gmail.com",
+    "personDisplayName": "Eugene Perez",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9iMDc5MmVhNi1mOWYxLTRlYzMtYTE2Ny0zNzA1NjlmZTFlZDA",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-07T13:54:35.936Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvNmJmMTJhOTItZjk3YS00OTZlLWFhYWEtNzg5NWI4MmJlZDljOmU4MWE1NmYwLTI3NTAtMTFlYy04N2Y0LWM1NjI2YzY2MGQzYg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZTgxYTU2ZjAtMjc1MC0xMWVjLTg3ZjQtYzU2MjZjNjYwZDNi",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82YmYxMmE5Mi1mOTdhLTQ5NmUtYWFhYS03ODk1YjgyYmVkOWM",
+    "personEmail": "gerinlarin@gmail.com",
+    "personDisplayName": "Gerin Larin",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi9iMDc5MmVhNi1mOWYxLTRlYzMtYTE2Ny0zNzA1NjlmZTFlZDA",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-07T13:54:51.153Z"
+}
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FTUJFUlNISVAvMGE1ZmU3ZjItMjkyZS00YzQyLWE0ZDItOGU1YzA3MTYwM2VkOmU4MWE1NmYwLTI3NTAtMTFlYy04N2Y0LWM1NjI2YzY2MGQzYg",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZTgxYTU2ZjAtMjc1MC0xMWVjLTg3ZjQtYzU2MjZjNjYwZDNi",
+    "roomType": "group",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8wYTVmZTdmMi0yOTJlLTRjNDItYTRkMi04ZTVjMDcxNjAzZWQ",
+    "personEmail": "gilpangan.2815@gmail.com",
+    "personDisplayName": "Gil Pangan",
+    "personOrgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi81YzAzMDUwYi03Y2VlLTQyZDAtODdkZS00ZGExYzM0Njk1NzA",
+    "isModerator": false,
+    "isMonitor": false,
+    "isRoomHidden": false,
+    "created": "2021-10-07T13:55:10.542Z"
+}
+
+WEBEX API -- message
+200 / OK
+{
+  "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FU1NBR0UvZjQ1ZTEyNDAtMjc3Ny0xMWVjLTk2ZDktN2RhNmQzOGMwMDhl",
+  "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vYTljNjYwNjAtMjc1MC0xMWVjLWFiNjctNzc3ZTE3ZjMwYzQ1",
+  "roomType": "group",
+  "text": "I love API",
+  "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+  "personEmail": "janzsacdalan@gmail.com",
+  "created": "2021-10-07T14:07:49.604Z"
+}
+
+POSTMAN API --message
+{
+    "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL01FU1NBR0UvNDA2ZGNmZTAtMjc3OC0xMWVjLTg2ODUtNDU0NGZhMjA3ODEy",
+    "roomId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1JPT00vZTgxYTU2ZjAtMjc1MC0xMWVjLTg3ZjQtYzU2MjZjNjYwZDNi",
+    "roomType": "group",
+    "text": "I love API",
+    "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+    "personEmail": "janzsacdalan@gmail.com",
+    "created": "2021-10-07T14:09:57.214Z"
+}
+
+WEBEX API --Create meeting
+{
+  "id": "6cd97af9b62f4ae8a73bb6c2cb1b33fc",
+  "meetingNumber": "25551980923",
+  "title": "Comp6",
+  "password": "eX4ZJeFD7n3",
+  "phoneAndVideoSystemPassword": "39495333",
+  "meetingType": "meetingSeries",
+  "state": "active",
+  "timezone": "UTC",
+  "start": "2021-10-21T14:00:00Z",
+  "end": "2021-10-21T18:00:00Z",
+  "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+  "hostDisplayName": "Janz Harvey Ortega",
+  "hostEmail": "janzsacdalan@gmail.com",
+  "hostKey": "864321",
+  "siteUrl": "meet150.webex.com",
+  "webLink": "https://meet150.webex.com/meet150/j.php?MTID=mc3c10bb8d47582ca45924a95e9e46585",
+  "sipAddress": "25551980923@meet150.webex.com",
+  "dialInIpAddress": "173.243.2.68",
+  "enabledAutoRecordMeeting": true,
+  "allowAuthenticatedDevices": false,
+  "enabledJoinBeforeHost": false,
+  "joinBeforeHostMinutes": 0,
+  "enableConnectAudioBeforeHost": false,
+  "excludePassword": false,
+  "publicMeeting": false,
+  "enableAutomaticLock": false,
+  "telephony": {
+    "accessCode": "25551980923",
+    "callInNumbers": [],
+    "links": [
+      {
+        "rel": "globalCallinNumbers",
+        "href": "/v1/meetings/6cd97af9b62f4ae8a73bb6c2cb1b33fc/globalCallinNumbers",
+        "method": "GET"
+      }
+    ]
+  }
+}
+{
+  "id": "6cd97af9b62f4ae8a73bb6c2cb1b33fc_4919161476",
+  "email": "vavancruz65@gmail.com",
+  "displayName": "vavancruz65@gmail.com",
+  "coHost": false,
+  "meetingId": "6cd97af9b62f4ae8a73bb6c2cb1b33fc"
+}
+{
+  "id": "6cd97af9b62f4ae8a73bb6c2cb1b33fc_4919176846",
+  "email": "gerinlarin@gmail.com",
+  "displayName": "gerinlarin@gmail.com",
+  "coHost": false,
+  "meetingId": "6cd97af9b62f4ae8a73bb6c2cb1b33fc"
+}
+{
+  "id": "6cd97af9b62f4ae8a73bb6c2cb1b33fc_4919189626",
+  "email": "gilpangan.2815@gmail.com",
+  "displayName": "gilpangan.2815@gmail.com",
+  "coHost": false,
+  "meetingId": "6cd97af9b62f4ae8a73bb6c2cb1b33fc"
+}
+200 / OK
+{
+  "id": "44c26af63c2349e2b059484f2eed36b8",
+  "meetingNumber": "25596398351",
+  "title": "API",
+  "password": "kNcP6PauB22",
+  "phoneAndVideoSystemPassword": "56276728",
+  "meetingType": "meetingSeries",
+  "state": "active",
+  "timezone": "UTC",
+  "start": "2021-10-21T15:00:00Z",
+  "end": "2021-10-21T17:00:00Z",
+  "hostUserId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hZGU1MDgyMy1jMjhlLTQyM2QtYmQxZC1kMzNlZTFlMWUzNjI",
+  "hostDisplayName": "Janz Harvey Ortega",
+  "hostEmail": "janzsacdalan@gmail.com",
+  "hostKey": "181350",
+  "siteUrl": "meet150.webex.com",
+  "webLink": "https://meet150.webex.com/meet150/j.php?MTID=m7b25ca0fc97008f3079477176a3d913f",
+  "sipAddress": "25596398351@meet150.webex.com",
+  "dialInIpAddress": "173.243.2.68",
+  "enabledAutoRecordMeeting": true,
+  "allowAuthenticatedDevices": false,
+  "enabledJoinBeforeHost": false,
+  "joinBeforeHostMinutes": 0,
+  "enableConnectAudioBeforeHost": false,
+  "excludePassword": false,
+  "publicMeeting": false,
+  "enableAutomaticLock": false,
+  "telephony": {
+    "accessCode": "25596398351",
+    "callInNumbers": [],
+    "links": [
+      {
+        "rel": "globalCallinNumbers",
+        "href": "/v1/meetings/44c26af63c2349e2b059484f2eed36b8/globalCallinNumbers",
+        "method": "GET"
+      }
+    ]
+  }
+}
+{
+  "id": "44c26af63c2349e2b059484f2eed36b8_4919189691",
+  "email": "gilpangan.2815@gmail.com",
+  "displayName": "gilpangan.2815@gmail.com",
+  "coHost": false,
+  "meetingId": "44c26af63c2349e2b059484f2eed36b8"
+}
+200 / OK
+{
+  "id": "44c26af63c2349e2b059484f2eed36b8_4919161541",
+  "email": "gerinlarin@gmail.com",
+  "displayName": "gerinlarin@gmail.com",
+  "coHost": false,
+  "meetingId": "44c26af63c2349e2b059484f2eed36b8"
+}
+200 / OK
+{
+  "id": "44c26af63c2349e2b059484f2eed36b8_4919161551",
+  "email": "vavancruz65@gmail.com",
+  "displayName": "vavancruz65@gmail.com",
+  "coHost": false,
+  "meetingId": "44c26af63c2349e2b059484f2eed36b8"
+}
+
+POSTMAN API --Create meeting
